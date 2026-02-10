@@ -44,8 +44,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "I LOVE YOU MORE THAN ANYTHING MY LOVE JTM JTM JTM",
+        title: "I LOVE YOU MORE THAN ANYTHING MY LOVE JTM JTM JTM 🎉💝💖💝💓",
         emojis: "💖🤗💝💋❤️💕",
         
         image: "https://i.pinimg.com/736x/ab/60/1f/ab601f2ba1915b8e193a7795ffae7f43.jpg"
