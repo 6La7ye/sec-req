@@ -51,7 +51,6 @@ const CONFIG = {
         image: "https://i.pinimg.com/736x/ab/60/1f/ab601f2ba1915b8e193a7795ffae7f43.jpg"
     },
 
-    // Color scheme for the website
     colors: {
         backgroundStart: "#ffafbd",
         backgroundEnd: "#ffc3a0",
